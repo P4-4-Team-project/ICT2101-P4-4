@@ -10,6 +10,9 @@ Our group will be using ReactJS for the website as react is modular and allows f
 https://www.figma.com/file/t3FCB4Sp9Z77a1xoP0is7N/M3?node-id=0%3A1&t=zAc8mDnC0XXFpePd-1   <br/>
 Simply click the link above to access our prototype! [Security Company]
 
+## Link to video on Prototype
+https://youtu.be/tp5vtiB-OVA
+
 ## 🎬 Link To Video 
 
 
